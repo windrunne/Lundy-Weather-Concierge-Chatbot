@@ -2,8 +2,8 @@
 
 A fast, streaming conversational weather app with a polished UI. The frontend is built with React + TypeScript + Vite + Tailwind CSS, and the backend uses FastAPI with OpenAI tool-calling and Open‑Meteo for forecasts.
 
-##Live Demo
-[https://www.loom.com/share/b0df7b76d1ff4b0a95158f5ee36a4cfb]
+[Watch the demo video](https://www.loom.com/share/b0df7b76d1ff4b0a95158f5ee36a4cfb)
+
 ## Features
 
 - Streaming chat responses for low-latency UX
