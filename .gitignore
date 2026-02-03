@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+env/
+venv/
+.venv/
+.env
+.env.*
+
+# FastAPI / Uvicorn
+*.log
+
+# Node / Vite
+node_modules/
+dist/
+build/
+.vite/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+Thumbs.db
+Desktop.ini
+.DS_Store
+
